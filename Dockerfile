@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-LABEL maintainer="Alamin Mir"
+LABEL maintainer="Alamin"
 
 ENV PYTHONUNBUFFERED 1
 
